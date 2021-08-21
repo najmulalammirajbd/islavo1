@@ -1,0 +1,67 @@
+.loginform{
+    text-align: center;
+    margin-top: 74px;
+    margin-bottom: 74px;
+}
+.loginfor{
+    text-align: center;
+    margin-top: 179px;
+    margin-bottom: 74px;
+}
+.text1{
+    font-size: 12px;
+    color: #30a0c7;
+    text-align: center;
+}
+.text2{
+    color: #30a0c7;
+    height: 44px;
+    padding-top: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 13px;
+    box-shadow: 0 10px 40px rgba(0,0,0,.05);
+}
+.text3{
+    font-size: 12px;
+    color: #30a0c7;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -12px;
+}
+.text4{
+    font-size: 8px;
+    color: #30a0c7;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -12px;
+}
+input{
+
+        width: 182px;
+        border: 1px solid #30a0c7;
+        height: 50px;
+        margin-top: 5px;
+        outline: none;
+   
+}
+button{
+
+    width: 188px;
+    border: 1px solid #30a0c7;
+    height: 23px;
+    margin-top: 5px;
+    background-color: white;
+    color:#30a0c7 ;
+
+}
+.loginbtn{
+
+    width: 188px;
+    border: 1px solid #30a0c7;
+    height: 23px;
+    margin-top: 5px;
+    background-color: white;
+    color:#30a0c7 ;
+
+}
