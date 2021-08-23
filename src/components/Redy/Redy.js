@@ -14,7 +14,7 @@ const Redy = () => {
   } = useForm();
   const [loggedInUser, setLoggedInUser] = useContext(UserContext);
   const onSubmit = (data) => {
-    fetch('https://islavo.web.app/api/users/createPaymentLink', {
+    fetch('http://localhost:5000/api/users/createPaymentLink', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
