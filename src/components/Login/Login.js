@@ -28,7 +28,7 @@ function Login() {
     //user payment check data
 
     useEffect(() => {
-        fetch('http://localhost:5000/api/users/getPaymentStatus')
+        fetch('https://islavo.herokuapp.com/userdata')
             .then(res => res.json())
             .then(userPaymentData => {
                 if (userPaymentData.length > 0) {
